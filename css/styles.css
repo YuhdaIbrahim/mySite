@@ -1,0 +1,161 @@
+#title {
+  background-color: black;
+  color: white;
+}
+
+.navbar-brand p {
+  font-family: 'Livvic', fantasy;
+  font-size: 2rem;
+  color: #A8E6CF;
+  display: inline-block;
+}
+
+#brand {
+  font-family: 'Livvic', fantasy;
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+.navbar {
+  padding: 0 0 4.5rem !important;
+}
+
+#title h1 {
+  font-family: 'Montserrat-Black', inherit;
+  font-size: 3.5rem;
+  line-height: 1.4;
+  font-weight: bold;
+}
+
+h3 {
+  font-weight: bold !important;
+  font-size: 1.5rem !important;
+}
+
+h2 {
+  font-family: "Montserrat-Bold", sans-serif;
+  font-weight: bold !important;
+  line-height: 1.5 !important;
+  font-size: 3.5vw !important;
+}
+
+p {
+  color: #8f8f8f;
+}
+.hours{
+  color: #8f8f8f;
+  display: inline-block;
+}
+
+.priceTag{
+  display: inline-block;
+}
+
+.container-fluid {
+  padding: 3% 15% !important;
+}
+
+.btn-lg {
+  padding: 5px 40px !important;
+}
+
+.call-me {
+  margin: 5% 3% 5% 0 !important;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat";
+}
+
+.title-image {
+  width: 80% !important;
+  margin-left: 60px;
+}
+@media (max-width: 1028px) {
+  .title-image{
+    display: none;
+  }
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5% !important;
+}
+
+#features {
+  padding: 4% 15%;
+}
+
+.icon {
+  color: Black;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #C5F0A4;
+}
+
+#testimonials {
+
+  text-align: center;
+  background-color: #262422;
+  color: white;
+}
+.carousel-item{
+    padding: 6% 15%;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+#press{
+    background-color: #262422;
+    text-align: center;
+    padding-bottom: 3%;
+}
+.press-logo{
+  width: 4%;
+  margin: 10px 20px 30px;
+}
+
+#pricing{
+  text-align: center;
+    padding: 5% 10%;
+}
+
+
+.cards{
+margin-top: 80px;
+}
+#cta{
+  text-align: center;
+  background-color: #262422;
+  color: white;
+  padding: 5%;
+}
+
+#cta h3{
+  margin-bottom: 40px;
+}
+
+#footer p{
+  text-align: center;
+    margin-bottom: 0;
+
+}
+#footer{
+  text-align: center;
+      padding: 5%;
+}
+.social-icon{
+  margin-bottom: 20px;
+  margin-left: 15px;
+}
